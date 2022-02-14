@@ -1,0 +1,12 @@
+E:\MyApps\DXS_CSHARP_encapsulation\bin\Debug\net5.0\DXS_CSHARP_encapsulation.deps.json
+E:\MyApps\DXS_CSHARP_encapsulation\bin\Debug\net5.0\DXS_CSHARP_encapsulation.dll
+E:\MyApps\DXS_CSHARP_encapsulation\bin\Debug\net5.0\ref\DXS_CSHARP_encapsulation.dll
+E:\MyApps\DXS_CSHARP_encapsulation\bin\Debug\net5.0\DXS_CSHARP_encapsulation.pdb
+E:\MyApps\DXS_CSHARP_encapsulation\obj\Debug\net5.0\DXS_CSHARP_encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyApps\DXS_CSHARP_encapsulation\obj\Debug\net5.0\DXS_CSHARP_encapsulation.AssemblyInfoInputs.cache
+E:\MyApps\DXS_CSHARP_encapsulation\obj\Debug\net5.0\DXS_CSHARP_encapsulation.AssemblyInfo.cs
+E:\MyApps\DXS_CSHARP_encapsulation\obj\Debug\net5.0\DXS_CSHARP_encapsulation.csproj.CoreCompileInputs.cache
+E:\MyApps\DXS_CSHARP_encapsulation\obj\Debug\net5.0\DXS_CSHARP_encapsulation.dll
+E:\MyApps\DXS_CSHARP_encapsulation\obj\Debug\net5.0\ref\DXS_CSHARP_encapsulation.dll
+E:\MyApps\DXS_CSHARP_encapsulation\obj\Debug\net5.0\DXS_CSHARP_encapsulation.pdb
+E:\MyApps\DXS_CSHARP_encapsulation\obj\Debug\net5.0\DXS_CSHARP_encapsulation.csproj.AssemblyReference.cache

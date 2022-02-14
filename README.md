@@ -1,0 +1,2 @@
+# DXS_CSHARP_encapsulation
+ DXS_CSHARP_encapsulation

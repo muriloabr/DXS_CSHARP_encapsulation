@@ -9,6 +9,6 @@ no experiemnto do módulo de encapsulamento, com intuito de acessar os atributos
 **✨Atualizações da linguagem + comentários.**  
 
 Fiquem por dentro deste repositório com atualizações sempre que possível!  
-[CSHARP] #csharp
+[DOTNET] [CSHARP] #csharp #dotnet
 
 
